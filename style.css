@@ -1,0 +1,60 @@
+*{
+    font-family: arial;
+}
+
+
+
+.carousel-indicators [data-bs-target]{
+    height: 5px;
+    background-color: rgb(238, 164, 66);
+}
+
+.card {
+    border: none;
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
+   
+}
+.card:hover{
+    opacity: 0.9;
+}
+
+.h4, h4 {
+    font-size: calc(1.275rem + .3vw);
+    padding: 23px;
+    font-size: 15px;
+}
+
+ .yyy {
+        padding: 12px;
+        box-shadow: -3px 5px 27px black;
+        border-radius: 5px;
+        margin-top: 44px;
+ }
+ .fgh{
+    margin-bottom: 65px;
+ }
+ .ffgh{
+    margin-top: 65px;
+ }
+ 
+ hr {
+    
+    
+    background-color: rgb(35, 22, 13);
+ }
+
+ .me-5 {
+    margin-right: 0rem!important;
+}
+.text-center {
+    text-align: center!important;
+}
+
+.navbar-expand-lg .navbar-nav {
+   
+    margin-right: 118px;
+}
+
+/* .fgfg {
+    margin-left: 100px;
+} */
